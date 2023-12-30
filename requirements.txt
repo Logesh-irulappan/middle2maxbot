@@ -1,0 +1,7 @@
+bs4
+selenium
+python-telegram-bot
+concurrent.futures
+asyncio
+requests
+webdriver_manager
